@@ -1,4 +1,4 @@
-package tests;
+package junit4;
 
 import static org.junit.Assert.fail;
 import org.junit.Test;
