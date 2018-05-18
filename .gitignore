@@ -1,0 +1,14 @@
+bin
+data
+target
+/derby.log
+
+target
+/derby.log
+/.settings/
+/.project
+/.classpath
+/.factorypath
+*_.java
+
+${log-path}
