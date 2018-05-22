@@ -16,7 +16,7 @@
 				<version>2.21.0</version>
 				<configuration>
 					<useSystemClassLoader>false</useSystemClassLoader>
-					<excludedGroups>tests.IntegrationTest</excludedGroups>
+					<excludedGroups>junit4.IntegrationTest</excludedGroups>
 				</configuration>
 
 				<!-- dropping the following dependencies make tests green -->
